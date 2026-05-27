@@ -1,0 +1,6 @@
+{
+  "name": "Prayer Reminders",
+  "description": "An offline-capable prayer times tracker and reminder assistant that sends custom alerts before local prayers (Fajr before 60 mins and others before 10 mins by default).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

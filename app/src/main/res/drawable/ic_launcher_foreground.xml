@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Elegant center Crescent Moon (Solar Gold) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M 64,36 C 52,36 42,44 42,54 C 42,64 52,72 64,72 C 54,72 48,64 48,54 C 48,44 54,36 64,36 Z" />
+    <!-- Bright Islamic Star nestled in crescent opening (Light Gold) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M 68,48 L 70,52 L 74,52 L 71,55 L 72,59 L 68,56 L 64,59 L 65,55 L 62,52 L 66,52 Z" />
+</vector>
